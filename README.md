@@ -1,6 +1,7 @@
 🎯 Portfólio Digital Profissional
 
 Bem-vindo(a) ao meu portfólio digital! Aqui apresento uma seleção de projetos que demonstram minhas habilidades em diferentes áreas da tecnologia, desde desenvolvimento de jogos até análise de dados e desenvolvimento web.
+
 📂 Projetos
 🐍 Snake Game
 
