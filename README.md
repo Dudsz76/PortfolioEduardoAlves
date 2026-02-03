@@ -1,71 +1,101 @@
-💼 Portfólio Digital Profissional – Eduardo Alves
+🎯 Portfólio Digital Profissional
 
-Bem-vindo ao meu portfólio profissional no GitHub! Este espaço reúne uma variedade de projetos que demonstram minhas habilidades técnicas e criativas em diferentes áreas — desde desenvolvimento de jogos até análises avançadas com Power BI e muito mais.
-🎯 Sobre Este Portfólio
+Bem-vindo(a) ao meu portfólio digital! Aqui apresento uma seleção de projetos que demonstram minhas habilidades em diferentes áreas da tecnologia, desde desenvolvimento de jogos até análise de dados e desenvolvimento web.
+📂 Projetos
+🐍 Snake Game
 
-Este repositório serve como um catálogo dinâmico dos meus projetos, organizados por categoria e tecnologia. Aqui você encontrará desde experimentos criativos até soluções profissionais de negócios, sempre com foco em:
+Categoria: 🎮 Desenvolvimento de Jogos
+Tecnologias: Unity, C#
+Descrição:
+Um jogo 2D clássico da cobrinha desenvolvido em Unity com C#, recriando a experiência nostálgica com mecânicas modernas e design aprimorado. O projeto demonstra habilidades em programação de jogos, física 2D, lógica de game loop e design de interface.
 
-    Qualidade técnica
+Características:
 
-    Criatividade na solução de problemas
+    Controles responsivos e intuitivos
 
-    Documentação clara e profissional
+    Efeitos visuais e sonoros
 
-    Aplicações práticas e relevantes
+    Menu interativo e configurações
 
-📂 Categorias de Projetos
-🌐 Desenvolvimento Web
+📈 Análise de Tendências do Google
 
-Projetos que demonstram habilidades, em criação de sites utilizando o canva
- 
-🎮 Desenvolvimento de Jogos
+Categoria: 📊 Análise de Dados & Business Intelligence
+Tecnologias: Power BI, SQL
+Descrição:
+Dashboard interativo desenvolvido em Power BI para análise de dados do Google Trends, com foco nas tendências de busca relacionadas ao ChatGPT e Google Gemini. O projeto mostra habilidades em visualização de dados, criação de dashboards executivos e análise de métricas.
 
-Projetos que demonstram habilidades em game design, programação, arte digital e mecânicas de jogabilidade.
+Características:
 
-📊 Análises e Dashboards (Power BI)
+    Visualizações interativas de séries temporais
 
-Dashboards interativos, relatórios analíticos e visualizações de dados para tomada de decisão.
+    Análise comparativa entre tecnologias
 
-🛠️ Muito Mais em breve(fique de olho 😉) 
+    Filtros dinâmicos por período e região
 
-🚀 Projetos em Destaque
-Projeto	Categoria	Tecnologias	Descrição
-Projeto de jogo simples Snake	🎮 Jogos	Unity, C#	Jogo 2D baseado no jogo da cobrinha
-Análise de dados em Power Bi	📊 Power BI	Power BI, SQL	Dashboard de dados dos Google Trends, específicos a chat gpt e gemini
-Portfólio digital de minha autoria Desenvolvimento Web Canva Um portfólio digital, meu 
-🛠️ Tecnologias e Ferramentas
+    KPIs e métricas de crescimento
 
-💻 Linguagens de Programação
+    Conexão direta com base de dados SQL
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/C%2523-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-🎨 Frameworks e Ferramentas
+🌐 Portfólio Digital Pessoal
 
-https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
-https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white
-https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
+Categoria: 🖥️ Desenvolvimento Web
+Tecnologias: Canva
+Descrição:
+Portfólio digital profissional desenvolvido para apresentar meus projetos, habilidades e trajetória de forma visualmente atrativa e organizada. Este projeto demonstra habilidades em design digital, organização de conteúdo e apresentação profissional.
 
-📈 Como Navegar
+Características:
 
-    Explore por tags – Cada projeto está marcado com tecnologias e categorias
+    Design responsivo e moderno
 
-    Veja os READMEs – Cada projeto tem documentação detalhada
+    Organização visual de projetos
 
-    Execute os projetos – Muitos têm instruções de instalação e execução
+    Apresentação clara de habilidades
 
-    Analise o código – Comentários e estrutura organizada para fácil compreensão
+    Interface intuitiva e profissional
 
-📬 Contato e Colaboração
+    Otimizado para diferentes dispositivos
 
-Estou sempre aberto(a) para:
+🛠️ Habilidades Demonstradas
+Desenvolvimento de Jogos
 
-    Oportunidades profissionais
+    Programação em C# para Unity
 
-    Projetos colaborativos
+    Lógica de jogos e mecânicas
 
-    Feedback técnico
+    Otimização de performance
 
-    Discussões criativas
+Análise de Dados
+
+    Criação de dashboards no Power BI
+
+    Conexão e manipulação de dados SQL
+
+    Storytelling com dados
+
+Desenvolvimento Web & Design
+
+    Design visual com Canva
+
+    Organização de conteúdo
+
+    Design responsivo
+
+    Apresentação profissional
+
+📊 Metodologia de Trabalho
+
+Cada projeto segue uma abordagem estruturada:
+
+    Planejamento: Definição de escopo e objetivos
+
+    Desenvolvimento: Implementação com boas práticas
+
+    Testes: Validação de funcionalidades
+
+    Documentação: README detalhado e comentários no código
+
+    Publicação: Disponibilização no GitHub
+
 
 Conecte-se comigo:
     Linkedin: www.linkedin.com/in/eduardo-alves-453409288
