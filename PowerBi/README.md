@@ -1,113 +1,64 @@
-🎯 Portfólio Digital Profissional
+📊 Projeto de Dashboard Power BI: Análise de ChatGpt e Google Gemini
 
-Bem-vindo(a) ao meu portfólio digital! Aqui apresento uma seleção de projetos que demonstram minhas habilidades em diferentes áreas da tecnologia, desde desenvolvimento de jogos até análise de dados e desenvolvimento web.
+Este repositório contém um projeto desenvolvido em Power BI com o objetivo de analisar e visualizar dados relacionados ao ChatGpt e Google Gemini, segmentados por período (ano, trimestre, mês e dia) e estado.
 
-📂 Projetos:
+O projeto faz parte do meu portfólio digital, onde apresento de forma profissional minhas habilidades em Business Intelligence, modelagem de dados, criação de dashboards interativos e storytelling com dados.
+📁 Arquivos do Projeto
 
-🐍 Snake Game
+    Dashboard_ChatGpt_Gemini.pbix – Arquivo principal do Power BI (não incluído neste repositório por limitações de tamanho, mas disponível sob solicitação).
 
-Categoria: 🎮 Desenvolvimento de Jogos
-Tecnologias: Unity, C#
-Descrição:
-Um jogo 2D clássico da cobrinha desenvolvido em Unity com C#, recriando a experiência nostálgica com mecânicas modernas e design aprimorado. O projeto demonstra habilidades em programação de jogos, física 2D, lógica de game loop e design de interface.
+    ChatGptXGemni.pdf – Documento de referência contendo a estrutura das visualizações e a segmentação temporal utilizada no projeto.
 
-Características:
+    README.md – Este arquivo.
 
-    Controles responsivos e intuitivos
+🎯 Objetivos do Projeto
 
-    Efeitos visuais e sonoros
+    Criar um dashboard interativo e visualmente claro.
 
-    Menu interativo e configurações
+    Demonstrar habilidades em DAX, modelagem de dados e design de relatórios.
 
-📈 Análise de Tendências do Google
+    Segmentar dados por múltiplas dimensões temporais e geográficas.
 
-Categoria: 📊 Análise de Dados & Business Intelligence
-Tecnologias: Power BI, SQL
-Descrição:
-Dashboard interativo desenvolvido em Power BI para análise de dados do Google Trends, com foco nas tendências de busca relacionadas ao ChatGPT e Google Gemini. O projeto mostra habilidades em visualização de dados, criação de dashboards executivos e análise de métricas.
-
-Características:
-
-    Visualizações interativas de séries temporais
-
-    Análise comparativa entre tecnologias
-
-    Filtros dinâmicos por período e região
-
-    KPIs e métricas de crescimento
-
-    Conexão direta com base de dados SQL
-
-🌐 Portfólio Digital Pessoal
-
-Categoria: 🖥️ Desenvolvimento Web
-Tecnologias: Canva
-Descrição:
-Portfólio digital profissional desenvolvido para apresentar meus projetos, habilidades e trajetória de forma visualmente atrativa e organizada. Este projeto demonstra habilidades em design digital, organização de conteúdo e apresentação profissional.
-
-Características:
-
-    Design responsivo e moderno
-
-    Organização visual de projetos
-
-    Apresentação clara de habilidades
-
-    Interface intuitiva e profissional
-
-    Otimizado para diferentes dispositivos
+    Comparar desempenho entre ChatGpt e Google Gemini em diferentes regiões e períodos.
 
 🛠️ Habilidades Demonstradas
-Desenvolvimento de Jogos
 
-    Programação em C# para Unity
+    Power BI: Criação de dashboards, uso avançado de DAX, modelagem de dados.
 
-    Lógica de jogos e mecânicas
+    Business Intelligence: Análise exploratória, KPIs, visualização de dados.
 
-    Otimização de performance
+    Storytelling com Dados: Organização lógica e clara das informações.
 
-Análise de Dados
+    Gestão de Projetos: Documentação e estruturação de repositório para portfólio.
 
-    Criação de dashboards no Power BI
+📈 Estrutura do Dashboard
 
-    Conexão e manipulação de dados SQL
+O dashboard está dividido em:
 
-    Storytelling com dados
+    Visão Geral Temporal: Soma de interações por ano, trimestre, mês e dia.
 
-Desenvolvimento Web & Design
+    Análise por Estado: Comparativo entre estados para ChatGpt e Google Gemini.
 
-    Design visual com Canva
+    Filtros Interativos: Segmentação por data, estado e plataforma.
 
-    Organização de conteúdo
+    Indicadores-chave (KPIs): Métricas de desempenho e crescimento.
 
-    Design responsivo
+📬 Contato
 
-    Apresentação profissional
+Este projeto é parte do meu portfólio profissional. Se você tem interesse em conhecer mais sobre meu trabalho ou discutir oportunidades, sinta-se à vontade para entrar em contato:
 
-📊 Metodologia de Trabalho
+    LinkedIn: [Seu perfil do LinkedIn]
 
-Cada projeto segue uma abordagem estruturada:
+    E-mail: [seu-email@exemplo.com]
 
-    Planejamento: Definição de escopo e objetivos
+    GitHub: [seu-usuario-github]
 
-    Desenvolvimento: Implementação com boas práticas
+📌 Notas
 
-    Testes: Validação de funcionalidades
+    Os dados utilizados são tirados do Google trends, com foco na demonstração técnica.
 
-    Documentação: README detalhado e comentários no código
+    O arquivo .pbix pode ser disponibilizado mediante solicitação.
 
-    Publicação: Disponibilização no GitHub
+    Feedbacks são sempre bem-vindos! 😊
 
-
-Conecte-se comigo:
-    Linkedin: www.linkedin.com/in/eduardo-alves-453409288
-    Email: oliveiradudu76@gmail.com
-
-📝 Licença
-
-Os projetos neste portfólio estão sob diferentes licenças, dependendo da natureza de cada um. Consulte o arquivo LICENSE de cada repositório para mais detalhes.
-
-⭐ "Nolite Cogitare et vivere"
-
-Atualizado em: Fevereiro de 2025
-Status: Em constante evolução 🚀
+Feito com carinho e Power BI.
