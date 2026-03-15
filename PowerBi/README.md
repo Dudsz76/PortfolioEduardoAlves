@@ -46,15 +46,13 @@ Este relatório foca na análise de tendências e popularidade, comparando o vol
 
 Este projeto é parte do meu portfólio profissional. Se você tem interesse em conhecer mais sobre meu trabalho ou discutir oportunidades, sinta-se à vontade para entrar em contato:
 
-    LinkedIn: [Seu perfil do LinkedIn]
+    LinkedIn: [(https://www.linkedin.com/in/eduardo-alves-453409288/)]
 
-    E-mail: [seu-email@exemplo.com]
-
-    GitHub: [seu-usuario-github]
+    E-mail: [oliveiradudu76@gmail.com]
 
 📌 Notas
 
-    Os dados utilizados são tirados do Google trends, com foco na demonstração técnica.
+    Os dados utilizados são tirados do Google trends, com foco na demonstração técnica, também foram utilizados dados fictícios, disponibilizados pelo meu    professor de ciência de dados.
 
     O arquivo .pbix pode ser disponibilizado mediante solicitação.
 
