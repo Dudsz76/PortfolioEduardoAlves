@@ -1,47 +1,46 @@
-📊 Projeto de Dashboard Power BI: Análise de ChatGpt e Google Gemini
+📊 Análise de Dados com Power BI - Portfólio Pessoal
 
-Este repositório contém um projeto desenvolvido em Power BI com o objetivo de analisar e visualizar dados relacionados ao ChatGpt e Google Gemini, segmentados por período (ano, trimestre, mês e dia) e estado.
+Bem-vindo(a) ao meu repositório de portfólio de Power BI! 🚀
 
-O projeto faz parte do meu portfólio digital, onde apresento de forma profissional minhas habilidades em Business Intelligence, modelagem de dados, criação de dashboards interativos e storytelling com dados.
-📁 Arquivos do Projeto
+Este espaço é dedicado a compartilhar projetos de análise de dados e business intelligence que desenvolvo. Aqui você encontrará dashboards interativos que transformam dados brutos em insights acionáveis, demonstrando minhas habilidades com modelagem de dados, DAX, visualização de informações e storytelling.
+📈 Projetos em Destaque
+1. Relatório de Desempenho de Vendas
 
-    Dashboard_ChatGpt_Gemini.pbix – Arquivo principal do Power BI (não incluído neste repositório por limitações de tamanho, mas disponível sob solicitação).
+Este dashboard oferece uma visão abrangente sobre o faturamento de uma empresa, segmentando os dados por diferentes perspectivas para uma análise estratégica completa.
 
-    ChatGptXGemni.pdf – Documento de referência contendo a estrutura das visualizações e a segmentação temporal utilizada no projeto.
+    Objetivo: Monitorar o faturamento total, identificar os melhores vendedores e as cidades com melhor performance.
 
-    README.md – Este arquivo.
+    Principais Insights:
 
-🎯 Objetivos do Projeto
+        Visão Geral: Acompanhamento do faturamento total por cidade, com Brasília liderando (R$ 1,63 Mi) e Rio de Janeiro (R$ 0,73 Mi) em posição de destaque.
 
-    Criar um dashboard interativo e visualmente claro.
+        Performance por Vendedor: Análise do faturamento mensal por vendedor (Ana, Felipe, Henrique, etc.), permitindo avaliar a performance individual ao longo do tempo.
 
-    Demonstrar habilidades em DAX, modelagem de dados e design de relatórios.
+        Detalhamento por Categoria: Segmentação do negócio por categorias de produto (Acessórios, Beleza, Eletrônicos, etc.), facilitando a identificação de quais áreas mais contribuem para o resultado.
 
-    Segmentar dados por múltiplas dimensões temporais e geográficas.
+        Análise Geográfica: Visualização do desempenho de vendas por diversas cidades (Goiânia, Curitiba, Caldas Novas, etc.), permitindo comparar mercados e direcionar estratégias regionais.
 
-    Comparar desempenho entre ChatGpt e Google Gemini em diferentes regiões e períodos.
+2. Análise Comparativa de Ferramentas de IA: Google Gemini vs. ChatGPT
 
-🛠️ Habilidades Demonstradas
+Este relatório foca na análise de tendências e popularidade, comparando o volume de buscas por duas das principais ferramentas de Inteligência Artificial do mercado.
 
-    Power BI: Criação de dashboards, uso avançado de DAX, modelagem de dados.
+    Objetivo: Comparar o interesse de busca ao longo do tempo pelo Google Gemini e ChatGPT.
 
-    Business Intelligence: Análise exploratória, KPIs, visualização de dados.
+    Principais Insights:
 
-    Storytelling com Dados: Organização lógica e clara das informações.
+        Tendência Temporal: Acompanhamento semanal do volume de buscas, revelando picos de interesse e períodos de queda para cada ferramenta.
 
-    Gestão de Projetos: Documentação e estruturação de repositório para portfólio.
+        Análise Comparativa: Visualização lado a lado do "Soma de Google Gemini" vs. "Soma de ChatGPT", permitindo uma comparação direta da popularidade de cada ferramenta no período analisado.
 
-📈 Estrutura do Dashboard
+        Detalhamento Periódico: Capacidade de analisar os dados por ano, trimestre, mês e até dia, para uma visão granular das mudanças no comportamento de busca.
 
-O dashboard está dividido em:
+🛠️ Ferramentas e Tecnologias Utilizadas
 
-    Visão Geral Temporal: Soma de interações por ano, trimestre, mês e dia.
+    Power BI Desktop: Para modelagem, transformação de dados (Power Query) e criação dos dashboards.
 
-    Análise por Estado: Comparativo entre estados para ChatGpt e Google Gemini.
+    DAX (Data Analysis Expressions): Para criação de medidas e colunas calculadas que permitem análises mais profundas.
 
-    Filtros Interativos: Segmentação por data, estado e plataforma.
-
-    Indicadores-chave (KPIs): Métricas de desempenho e crescimento.
+    Visualização de Dados: Criação de gráficos, mapas e tabelas que contam uma história de forma clara e objetiva.
 
 📬 Contato
 
