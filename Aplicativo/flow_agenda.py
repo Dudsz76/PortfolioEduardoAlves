@@ -12,7 +12,7 @@ from PyQt6.QtWidgets import (
 )
 from PyQt6.QtCore import Qt, QTimer, QPropertyAnimation, QEasingCurve, pyqtSignal, QTime
 from PyQt6.QtGui import QFont, QColor, QPalette, QBrush, QLinearGradient, QIcon
-
+from PyQt6.QtWidgets import QInputDialog
 
 # ==================== MODELO DE DADOS ====================
 
