@@ -1,129 +1,215 @@
-🎯 Portfólio Digital Profissional
+🧠 Flow Agenda - App de Organização para Neurodivergências
 
-Bem-vindo(a) ao meu portfólio digital! Aqui apresento uma seleção de projetos que demonstram minhas habilidades em diferentes áreas da tecnologia, desde desenvolvimento de jogos até análise de dados e desenvolvimento web.
+Bem-vindo(a) ao meu repositório de desenvolvimento de software inclusivo! 🚀
 
-📂 Projetos:
+Este espaço é dedicado a compartilhar projetos de tecnologia assistiva e design neuroinclusivo que desenvolvo. Aqui você encontrará um aplicativo desktop que transforma a gestão de tarefas diárias em uma experiência acolhedora, respeitosa e adaptada para pessoas autistas e com TDAH. 📱💜
+📱 Sobre o Projeto: Flow Agenda
 
-📓Agenda para pessoas neurodivergentes
+O Flow Agenda é um aplicativo desktop desenvolvido em Python com PyQt6, criado especificamente para atender às necessidades de pessoas neurodivergentes. Diferente das agendas tradicionais (que podem ser entediantes, abstratas e facilmente ignoradas), o Flow Agenda foi pensado para respeitar o funcionamento do cérebro neurodivergente.
+🎯 Objetivo
 
-Categoria: Desenvolvimento de aplicativos
-Tecnologias: Python, PyQT6, Json, Sys, os
-Descrição:
-Um protótipo de aplicativo de agenda feito com vibe coding, onde o foco é auxiliar pessoas neurodivergentes a focarem na quilo que precisam fazer, utilizando métodos para facilitar a atenção.
-Caractéristicas:
+Oferecer uma ferramenta de organização que:
 
-    Cards coloridos deslizáveis
-    
-    Cada cor tem significado fixo (azul=sozinho, verde=prazeroso, amarelo=transição, vermelho=social, roxo=surpresa)
-    
-    Modo "Trem"
-    
-    Lembretes educados "Sem Culpa"
+    Respeite a previsibilidade necessária para pessoas autistas
 
-🐍 Snake Game
+    Ajude com a cegueira temporal e paralisia de início do TDAH
 
-Categoria: 🎮 Desenvolvimento de Jogos
-Tecnologias: Unity, C#
-Descrição:
-Um jogo 2D clássico da cobrinha desenvolvido em Unity com C#, recriando a experiência nostálgica com mecânicas modernas e design aprimorado. O projeto demonstra habilidades em programação de jogos, física 2D, lógica de game loop e design de interface.
+    Elimine a culpa associada a lembretes agressivos
 
-Características:
+    Proporcione controle sensorial através de perfis de energia
 
-    Controles responsivos e intuitivos
+✨ Funcionalidades Principais
+📅 Linha do Tempo Visual
 
-    Efeitos visuais e sonoros
+    Interface horizontal (como stories do Instagram), não uma lista vertical entediante
 
-    Menu interativo e configurações
+    Cards coloridos com significados fixos:
 
-📈 Análise de Tendências do Google
+        🔵 Azul = Tarefa sozinho (recuperação)
 
-Categoria: 📊 Análise de Dados & Business Intelligence
-Tecnologias: Power BI, SQL
-Descrição:
-Dashboard interativo desenvolvido em Power BI para análise de dados do Google Trends, com foco nas tendências de busca relacionadas ao ChatGPT e Google Gemini. O projeto mostra habilidades em visualização de dados, criação de dashboards executivos e análise de métricas.
+        🟢 Verde = Tarefa prazerosa (interesse especial)
 
-Características:
+        🟡 Amarelo = Transição (locomoção, arrumar mochila)
 
-    Visualizações interativas de séries temporais
+        🔴 Vermelho = Obrigação social (consome energia)
 
-    Análise comparativa entre tecnologias
+        🟣 Roxo = Surpresa (conteúdo flexível)
 
-    Filtros dinâmicos por período e região
+🚂 Modo "Trem" (Transição Segura)
 
-    KPIs e métricas de crescimento
+    Divide tarefas em subtarefas detalhadas
 
-    Conexão direta com base de dados SQL
+    Mostra o que esperar antes de começar (spoiler da atividade)
 
-🌐 Portfólio Digital Pessoal
+    Informa: duração, nível de barulho, próximo passo
 
-Categoria: 🖥️ Desenvolvimento Web
-Tecnologias: Canva
-Descrição:
-Portfólio digital profissional desenvolvido para apresentar meus projetos, habilidades e trajetória de forma visualmente atrativa e organizada. Este projeto demonstra habilidades em design digital, organização de conteúdo e apresentação profissional.
+    Progresso visual com marcação de etapas concluídas
 
-Características:
+▶️ Botão "Iniciar Agora" com Timer de 5 Minutos
 
-    Design responsivo e moderno
+    Solução para a paralisia de início do TDAH
 
-    Organização visual de projetos
+    Timer visual com contagem regressiva
 
-    Apresentação clara de habilidades
+    Recompensa imediata ao concluir
 
-    Interface intuitiva e profissional
+    Frase motivacional: "Você começou! Que tal +10 min?"
 
-    Otimizado para diferentes dispositivos
+🔔 Lembretes "Sem Culpa"
 
-🛠️ Habilidades Demonstradas
-Desenvolvimento de Jogos
+    Abordagem educada e permissiva
 
-    Programação em C# para Unity
+    Opções: "Reagendar", "15 min" (soneca) ou "Ignorar"
 
-    Lógica de jogos e mecânicas
+    Nunca faz o usuário se sentir cobrado ou culpado
 
-    Otimização de performance
+🎛️ Perfis de Energia
 
-Análise de Dados
+    Baixa Energia (Overload): Interface suave, sem animações
 
-    Criação de dashboards no Power BI
+    Normal: Equilíbrio padrão
 
-    Conexão e manipulação de dados SQL
+    Hiperfoco: Preto e branco, sem distrações, bloqueio de notificações
 
-    Storytelling com dados
+✏️ CRUD Completo de Tarefas
 
-Desenvolvimento Web & Design
+    Criar, editar, excluir e limpar tarefas concluídas
 
-    Design visual com Canva
+    Interface acessível com campos claros
 
-    Organização de conteúdo
+    Suporte a subtarefas e descrições detalhadas
 
-    Design responsivo
+📊 Interface do Aplicativo
+text
 
-    Apresentação profissional
+┌─────────────────────────────────────────────────────────────────┐
+│ 🎛️ Perfil: [Normal ▼]    ➕ Nova Tarefa  🧹 Limpar  💰 Moedas: 0 │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  📅 Linha do Tempo (deslize para ver os próximos blocos)        │
+│                                                                 │
+│  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐       │
+│  │ 🕐 09:00 │  │ 🕐 10:30 │  │ 🕐 12:00 │  │ 🕐 14:00 │       │
+│  │ Café     │  │ E-mails  │  │ Almoço   │  │ Reunião  │       │
+│  │ ⏱️20min  │  │ ⏱️60min  │  │ ⏱️45min  │  │ ⏱️90min  │       │
+│  │ 🌿Silencioso│ │ 🌿Silencioso│ │ 🌿Silencioso│ │ 📢Moderado│       │
+│  └──────────┘  └──────────┘  └──────────┘  └──────────┘       │
+│                                                                 │
+│  ┌─────────────────────────────────────────────────────────┐   │
+│  │              ▶ INICIAR AGORA (timer de 5min)             │   │
+│  └─────────────────────────────────────────────────────────┘   │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 
-📊 Metodologia de Trabalho
+🛠️ Tecnologias Utilizadas
+Tecnologia	Finalidade
+Python 3.10+	Linguagem principal
+PyQt6	Interface gráfica desktop
+JSON	Persistência local de dados
+QTimer	Gerenciamento de temporizadores e lembretes
+QPropertyAnimation	Animações suaves (quando perfil permite)
+🚀 Como Executar o Projeto
+Pré-requisitos
+bash
 
-Cada projeto segue uma abordagem estruturada:
+# Instalar Python 3.10 ou superior
+# Instalar a biblioteca PyQt6
+pip install PyQt6
 
-    Planejamento: Definição de escopo e objetivos
+Clonar e Executar
+bash
 
-    Desenvolvimento: Implementação com boas práticas
+# Clone o repositório
+git clone https://github.com/seu-usuario/flow-agenda.git
 
-    Testes: Validação de funcionalidades
+# Entre no diretório
+cd flow-agenda
 
-    Documentação: README detalhado e comentários no código
+# Execute o aplicativo
+python flow_agenda.py
 
-    Publicação: Disponibilização no GitHub
+Arquivos do Projeto
+text
 
+flow-agenda/
+├── flow_agenda.py          # Código principal do aplicativo
+├── flow_agenda.json        # Arquivo de dados (criado automaticamente)
+└── README.md               # Este arquivo
 
-Conecte-se comigo:
-    Linkedin: www.linkedin.com/in/eduardo-alves-453409288
-    Email: oliveiradudu76@gmail.com
+🎨 Design Neuroinclusivo - Por que funciona?
+Necessidade Neurodivergente	Solução no Flow Agenda
+Dificuldade com transição	"Trem" de subtarefas + aviso progressivo
+Ansiedade por imprevistos	Spoiler da atividade (barulho, duração, próximo passo)
+Paralisia de início	Botão "Iniciar agora" com timer de 5 min
+Cegueira temporal	Linha do tempo horizontal (não lista vertical)
+Sobrecarga sensorial	Perfis de energia (dieta de estímulos)
+Pensamento literal	Perguntas diretas (sim/não/reagendar), sem metáforas
+📈 Principais Insights do Desenvolvimento
 
-📝 Licença
+Durante a criação deste aplicativo, aprendi que:
 
-Os projetos neste portfólio estão sob diferentes licenças, dependendo da natureza de cada um. Consulte o arquivo LICENSE de cada repositório para mais detalhes.
+    Ferramentas de produtividade tradicionais frequentemente falham para pessoas neurodivergentes porque assumem um funcionamento cognitivo "padrão"
 
-⭐ "Nolite Cogitare et vivere"
+    A culpa é o maior inimigo da consistência - lembretes agressivos geram evitação, não ação
 
-Atualizado em: Fevereiro de 2025
-Status: Em constante evolução 🚀
+    Previsibilidade reduz ansiedade - saber o que esperar de uma tarefa (barulho, duração, próximos passos) é tão importante quanto a tarefa em si
+
+    Interface visual horizontal funciona melhor para TDAH do que listas verticais tradicionais
+
+    Controle sensorial (perfis de energia) permite que o usuário regule seu próprio ambiente
+
+🔮 Próximos Passos (Roadmap)
+
+    Sistema completo de moedas e recompensas
+
+    Sincronização com Google Calendar
+
+    Notificações do sistema (tray icon)
+
+    Modo "Body Double" (estudo/ trabalho junto virtual)
+
+    Versão mobile (Kivy ou React Native)
+
+    Exportação de relatórios de conclusão
+
+    Temas personalizáveis por usuário
+
+📬 Contato
+
+Este projeto é parte do meu portfólio profissional de desenvolvimento de software inclusivo. Se você tem interesse em conhecer mais sobre meu trabalho, discutir oportunidades ou contribuir com o projeto, sinta-se à vontade para entrar em contato:
+Contato	Link
+LinkedIn	Eduardo Alves
+E-mail	oliveiradudu76@gmail.com
+📌 Notas Importantes
+
+    Os dados das tarefas são salvos localmente no arquivo flow_agenda.json
+
+    O aplicativo é totalmente offline - seus dados não saem do seu computador
+
+    Desenvolvido com foco em acessibilidade e respeito às necessidades neurodivergentes
+
+    Feedbacks e sugestões são sempre bem-vindos! 😊
+
+🤝 Contribuindo
+
+Contribuições são muito bem-vindas! Se você tem ideias para melhorar o Flow Agenda:
+
+    Faça um fork do projeto
+
+    Crie uma branch para sua feature (git checkout -b feature/nova-funcionalidade)
+
+    Commit suas mudanças (git commit -m 'Adiciona nova funcionalidade')
+
+    Push para a branch (git push origin feature/nova-funcionalidade)
+
+    Abra um Pull Request
+
+📄 Licença
+
+Este projeto está sob a licença MIT - sinta-se livre para usar, modificar e distribuir.
+
+Feito com 💜, café ☕ e respeito às neurodiversidades.
+
+"O mundo não foi feito para cérebros diferentes. Mas a tecnologia pode ser."
+⭐ Como Apoiar
+
