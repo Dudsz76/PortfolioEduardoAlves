@@ -4,6 +4,18 @@ Bem-vindo(a) ao meu portfólio digital! Aqui apresento uma seleção de projetos
 
 📂 Projetos:
 
+📓Agenda para pessoas neurodivergentes
+
+Categoria: Desenvolvimento de aplicativos
+Tecnologias: Python, PyQT6, Json, Sys, os
+Descrição:
+Um protótipo de aplicativo de agenda feito com vibe coding, onde o foco é auxiliar pessoas neurodivergentes a focarem na quilo que precisam fazer, utilizando métodos para facilitar a atenção.
+Caractéristicas:
+    Cards coloridos deslizáveis
+    Cada cor tem significado fixo (azul=sozinho, verde=prazeroso, amarelo=transição, vermelho=social, roxo=surpresa)
+    Modo "Trem"
+    Lembretes educados "Sem Culpa"
+
 🐍 Snake Game
 
 Categoria: 🎮 Desenvolvimento de Jogos
