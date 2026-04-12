@@ -211,5 +211,12 @@ Este projeto está sob a licença MIT - sinta-se livre para usar, modificar e di
 Feito com 💜, café ☕ e respeito às neurodiversidades.
 
 "O mundo não foi feito para cérebros diferentes. Mas a tecnologia pode ser."
-⭐ Como Apoiar
-
+<!-- Badges de Status -->
+[![CI Status](https://github.com/seu-usuario/flow-agenda/actions/workflows/ci.yml/badge.svg)](https://github.com/seu-usuario/flow-agenda/actions/workflows/ci.yml)
+[![Security Scan](https://github.com/seu-usuario/flow-agenda/actions/workflows/security-scan.yml/badge.svg)](https://github.com/seu-usuario/flow-agenda/actions/workflows/security-scan.yml)
+[![codecov](https://codecov.io/gh/seu-usuario/flow-agenda/branch/main/graph/badge.svg)](https://codecov.io/gh/seu-usuario/flow-agenda)
+[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
+[![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
+[![Tests](https://img.shields.io/badge/tests-pytest-blue.svg)](https://docs.pytest.org/)
+[![Coverage](https://img.shields.io/badge/coverage-85%25-brightgreen.svg)](https://codecov.io/)
