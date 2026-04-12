@@ -1,0 +1,44 @@
+name: 🔒 Security Scan
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Todo domingo
+  push:
+    branches: [ main ]
+    paths:
+      - 'requirements*.txt'
+      - '**/flow_agenda.py'
+
+jobs:
+  security:
+    name: Security Scanning
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install safety bandit
+    
+    - name: Check dependencies for vulnerabilities
+      run: |
+        safety check --json > safety-report.json || echo "::warning::Vulnerabilities found"
+    
+    - name: Run Bandit security scan
+      run: |
+        bandit -r . -f json -o bandit-full-report.json
+    
+    - name: Upload security reports
+      uses: actions/upload-artifact@v4
+      with:
+        name: security-reports
+        path: |
+          safety-report.json
+          bandit-full-report.json
